@@ -1,8 +1,8 @@
 ## Data Science Practitioner
 ## Technical Skills: Python, SQL, Machine Learning, MATLAB, Power BI, EXCEL 
 ## Education
-M.Sc., Physics | Jamia Millia Islamia at Delhi (June 2023)
-B.Sc., Physical Sciences | University of Delhi at Delhi (August 2020)
+M.Sc.,Physics | Jamia Millia Islamia (June 2023)
+B.Sc.,Physical Sciences | University of Delhi (August 2020)
 
 ## Work Experience
 **Researcher @ Orbitx India Aerospace (January 2023 - February 2024) - Rajasthan, India**
@@ -25,7 +25,7 @@ B.Sc., Physical Sciences | University of Delhi at Delhi (August 2020)
 
 [Data Project](https://github.com/AbhishekTyagi21/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING)
 
-![Netflix Movies and TV Shows]((https://raw.githubusercontent.com/AbhishekTyagi21/portfolio/main/sddefault.jpg))
+![Netflix Movies and TV Shows]((https://raw.githubusercontent.com/Niviai/portfolio/main/1_AUsMD6_wwW6mJEx6NTESHw.jpg))
 
 • Clustered 7,787 rows and 12 columns using K-Means (n=5) and Agglomerative Hierarchical Clustering (n=11); achieved higher 
 Silhouette Score with K-Means (0.6).
