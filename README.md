@@ -2,7 +2,6 @@
 ## Technical Skills: Python, SQL, Machine Learning, MATLAB, Power BI, EXCEL 
 ## Education
 M.Sc., Physics | Jamia Millia Islamia at Delhi (June 2023)
-
 B.Sc., Physical Sciences | University of Delhi at Delhi (August 2020)
 
 ## Work Experience
