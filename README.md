@@ -16,7 +16,7 @@ B.Sc., Physical Sciences | University of Delhi at Delhi (August 2020)
 
 [Data Project](https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python)
 
-![Hotel Booking Analysis(EDA)](C:\Users\HP\Music\be033539-8850-4fa1-bba4-2022398c77a7.png)
+![Hotel Booking Analysis(EDA)](https://raw.githubusercontent.com/AbhishekTyagi21/portfolio/main/be033539-8850-4fa1-bba4-2022398c77a7.png)
 
 • Conducted in-depth EDA on a hotel booking dataset, uncovering insights to enhance business strategies by analyzing booking patterns, revenue trends, and customer behaviors.
 • The analysis revealed that bookings peaked in 2016, with the highest revenue in 2017; identified highest daily earnings from Transient customers and maximum revenue from contract customers; pinpointed high booking cancellation ratio and suggested mitigation measures.
@@ -26,7 +26,7 @@ B.Sc., Physical Sciences | University of Delhi at Delhi (August 2020)
 
 [Data Project](https://github.com/AbhishekTyagi21/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING)
 
-![Netflix Movies and TV Shows]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Do6gIu2lRpiI&psig=AOvVaw0_eTnpEXZXGbaBbKpyxlp_&ust=1722763699742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDN_4vB2IcDFQAAAAAdAAAAABAJ))
+![Netflix Movies and TV Shows]((https://raw.githubusercontent.com/AbhishekTyagi21/portfolio/main/sddefault.jpg))
 
 • Clustered 7,787 rows and 12 columns using K-Means (n=5) and Agglomerative Hierarchical Clustering (n=11); achieved higher 
 Silhouette Score with K-Means (0.6).
@@ -37,7 +37,7 @@ Silhouette Score with K-Means (0.6).
 
 [Data Project](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)
 
-![Hotel Booking Dashboard](C:\Users\HP\Music\332449351-26c439fc-85db-4bae-aa2d-5da5cd0e469a.png)
+![Hotel Booking Dashboard](https://raw.githubusercontent.com/AbhishekTyagi21/portfolio/main/332449351-26c439fc-85db-4bae-aa2d-5da5cd0e469a.png)
 
 • Used Power Query Editor to clean and transform data and created measures using DAX.
 • Created an interactive data visualization dashboard that consolidated 1M+ data points from various sources, enabling real-time analytics and can improve decision-making speed by 40% for key stakeholders across departments.
