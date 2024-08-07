@@ -22,7 +22,7 @@
 
 [Data Project](https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python)
 
-![Hotel Booking Analysis(EDA)](https://raw.githubusercontent.com/AbhishekTyagi21/portfolio/main/be033539-8850-4fa1-bba4-2022398c77a7.png)
+![Hotel Booking Analysis(EDA)](![be033539-8850-4fa1-bba4-2022398c77a7](https://github.com/user-attachments/assets/86e09dff-4ca1-441a-bd2d-b8a095821113))
 
 • Analyzed 100k+ records using **Python** to uncover booking patterns, revenue trends, and customer behaviors. Employed pandas, matplotlib, and seaborn for data aggregation and visualization, boosting data visibility for targeted marketing campaigns.
 
