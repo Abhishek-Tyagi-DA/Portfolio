@@ -5,7 +5,7 @@
 ## Technical Skills: 
 **Python**, **SQL**, **Machine Learning**, **Power BI**, **EXCEL** 
 ## Education						       		
-- M.Sc., Physics	| Jamia Millia Islamia (_Jun 2023_)	 			        		
+- M.Sc., Physics	         | Jamia Millia Islamia (_Jun 2023_)	 			        		
 - B.Sc., Physical Sciences | University of Delhi (_Aug 2020_)
 
 ## Work Experience
