@@ -18,7 +18,7 @@
 • Partnered with cross-functional teams to analyze data from aerospace tests, uncovering KPIs that improved mission success rates by 20%.
 
 ## Projects
-## Hotel Booking Analysis(EDA) using Python
+## Hotel Booking EDA)
 
 [Data Project](https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python)
 
@@ -30,11 +30,11 @@
 
 • Designed metrics to pinpoint key factors influencing booking cancellations, delivering actionable insights to enhance customer retention and reduce cancellations.
 
-## Hotel Booking Analysis Dashboard using Power BI
+## Hotel Booking Dashboard
 
 [Data Project](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)
 
-![Hotel Booking Dashboard](https://raw.githubusercontent.com/AbhishekTyagi21/portfolio/main/332449351-26c439fc-85db-4bae-aa2d-5da5cd0e469a.png)
+![Hotel Booking Dashboard](![332449351-26c439fc-85db-4bae-aa2d-5da5cd0e469a](https://github.com/user-attachments/assets/1e9c0079-7e13-4254-860d-a7af704a5944))
 
 • Engineered a **Power BI** dashboard to provide hotel chain owners insights into key business success factors.
 
@@ -42,7 +42,7 @@
 
 • Integrated over 100k+ data points into an interactive dashboard, enabling real-time analytics and accelerating decision-making by 40%, offering insights to maximize data utilization and strategy implementation.
 
-## Netflix Movies and TV Shows Clustering (Ml, EDA, SQL, Excel)
+## Netflix Movies and TV Shows Clustering
 
 [Data Project](https://github.com/AbhishekTyagi21/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING)
 
