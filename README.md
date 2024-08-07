@@ -5,9 +5,8 @@
 ## Technical Skills: 
 **Python**, **SQL**, **Machine Learning**, **Power BI**, **EXCEL** 
 ## Education
-M.Sc, Physics | Jamia Millia Islamia (Jun 2023)
-
-B.Sc., Physical Sciences| University of Delhi (Aug 2020)
+M.Sc. (Physics), Jamia Millia Islamia (Jun 2023) | 
+B.Sc. (Physical Sciences), University of Delhi (Aug 2020)
 
 ## Work Experience
 **Researcher @ Orbitx India Aerospace (Jan 2023 - Feb 2024)**
