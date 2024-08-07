@@ -1,5 +1,7 @@
 ## Data Science Practitioner
-## Technical Skills: Python, SQL, Machine Learning, MATLAB, Power BI, EXCEL 
+[](https://raw.githubusercontent.com/Niviai/portfolio/main/1_wy7MfSUZCo5GHTL9tlPNXg.png)
+
+## Technical Skills: Python, SQL, Machine Learning, Power BI, EXCEL 
 ## Education
 M.Sc, Physics | Jamia Millia Islamia (June 2023)
 B.Sc., Physical Sciences | University of Delhi (August 2020)
