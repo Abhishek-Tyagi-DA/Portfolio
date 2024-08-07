@@ -1,4 +1,5 @@
 ## Data Science Practitioner
+![1_wy7MfSUZCo5GHTL9tlPNXg](https://github.com/user-attachments/assets/bd130354-b21b-4df8-9afd-33bdb04fdae3)
 
 
 ## Technical Skills: Python, SQL, Machine Learning, Power BI, EXCEL 
