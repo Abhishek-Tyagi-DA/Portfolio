@@ -14,7 +14,3 @@ theme: jekyll-theme-minimal
     icon_pack = "fa"
     link = "//github.com/USERNAME"
 
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/USERNAME"
