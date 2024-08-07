@@ -22,7 +22,7 @@
 
 [Data Project](https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python)
 
-![Hotel Booking Analysis(EDA)](https://github.com/user-attachments/assets/8451ccdc-3fb6-4933-8a45-03697ec147bf))
+![Hotel Booking Analysis(EDA)](https://github.com/user-attachments/assets/8451ccdc-3fb6-4933-8a45-03697ec147bf)
 
 • Analyzed 100k+ records using **Python** to uncover booking patterns, revenue trends, and customer behaviors. Employed pandas, matplotlib, and seaborn for data aggregation and visualization, boosting data visibility for targeted marketing campaigns.
 
@@ -34,7 +34,7 @@
 
 [Data Project](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)
 
-![Hotel Booking Dashboard](https://github.com/user-attachments/assets/1e9c0079-7e13-4254-860d-a7af704a5944))
+![Hotel Booking Dashboard](https://github.com/user-attachments/assets/1e9c0079-7e13-4254-860d-a7af704a5944)
 
 • Engineered a **Power BI** dashboard to provide hotel chain owners insights into key business success factors.
 
