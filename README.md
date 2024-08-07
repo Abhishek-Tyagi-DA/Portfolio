@@ -1,5 +1,5 @@
 ## Data Science Practitioner
-[](https://raw.githubusercontent.com/Niviai/portfolio/main/1_wy7MfSUZCo5GHTL9tlPNXg.png)
+
 
 ## Technical Skills: Python, SQL, Machine Learning, Power BI, EXCEL 
 ## Education
@@ -44,7 +44,7 @@ B.Sc., Physical Sciences | University of Delhi (August 2020)
 
 [Data Project](https://github.com/AbhishekTyagi21/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING)
 
-![Netflix Movies and TV Shows]((https://raw.githubusercontent.com/Niviai/portfolio/main/file.png))
+![1_JilPiB4zDJrEUyAmuHPtQw](https://github.com/user-attachments/assets/d587a04a-01ce-4827-b572-0db24eaa0bd2)
 
 • Clustered 7,787 rows and 12 columns using **K-Means** (n=5) and **Agglomerative Hierarchical Clustering** (n=11); achieved higher Silhouette Score with KMeans(0.6).
 
