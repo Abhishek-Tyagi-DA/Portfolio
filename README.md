@@ -2,14 +2,15 @@
 ![1_wy7MfSUZCo5GHTL9tlPNXg](https://github.com/user-attachments/assets/bd130354-b21b-4df8-9afd-33bdb04fdae3)
 
 
-## Technical Skills: Python, SQL, Machine Learning, Power BI, EXCEL 
+## Technical Skills: 
+**Python**, **SQL**, **Machine Learning**, **Power BI**, **EXCEL** 
 ## Education
 M.Sc, Physics | Jamia Millia Islamia (June 2023)
 
 B.Sc., Physical Sciences | University of Delhi (August 2020)
 
 ## Work Experience
-**Researcher @ Orbitx India Aerospace (January 2023 - February 2024) - Rajasthan, India**
+**Researcher @ Orbitx India Aerospace (Jan 2023 - Feb 2024)**
 
 • Developed a satellite communication module using **Python** and **MATLAB**, improving signal processing efficiency by 25%.
 
