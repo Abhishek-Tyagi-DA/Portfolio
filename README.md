@@ -18,7 +18,7 @@
 • Partnered with cross-functional teams to analyze data from aerospace tests, uncovering KPIs that improved mission success rates by 20%.
 
 ## Projects
-## Hotel Booking EDA)
+## Hotel Booking EDA
 
 [Data Project](https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python)
 
