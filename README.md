@@ -10,8 +10,11 @@
 ## Work Experience
 **Data Analyst Trainee @ AlmaBetter (July 2023 - Present)**
 
+
  • Applied EDA methodologies to datasets with over 1 million records, improving data integrity by 20% and generating insights that optimized marketing strategies and product offerings.
+ 
  • Created interactive Power BI dashboards, improving data visualization and increasing stakeholder engagement. Engineered efficient SQL queries, reducing data extraction times by 30%.
+ 
 • Established robust data quality checks, ensuring 100% compliance with accuracy and consistency.
 
 **Researcher @ Orbitx India Aerospace (Jan 2023 - Feb 2024)**
