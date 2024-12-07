@@ -3,7 +3,8 @@
 
 
 ### Technical Skills: Python, SQL, Machine Learning, Power BI, EXCEL 
-## Education						       		
+## Education					
+- M.S. (CS : Artificial Intelligence and Machine Learning) | Woolf University (_Jun 2025_)
 - M.Sc.(Physics) | Jamia Millia Islamia (_Jun 2023_)	 			        		
 - B.Sc.(Physics) | University of Delhi (_Aug 2020_)
 
