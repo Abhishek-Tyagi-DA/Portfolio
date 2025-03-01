@@ -2,7 +2,7 @@
 ![1_wy7MfSUZCo5GHTL9tlPNXg](https://github.com/user-attachments/assets/c1a52b95-dd4f-4f0a-bea0-1360cb85f6ee)
 
 ## Work Experience
-### Subject Matter Expert @ Vaidik Eduservices Private Limited (November 2024 - Present)
+### Subject Matter Expert @ Vaidik Eduservices Private Limited (Nov 2024 - Present)
  • Optimized academic content using data-driven insights, improving student engagement and learning outcomes by 25%, based on performance metrics and feedback analysis.
  
  • Analyzed student performance data to identify knowledge gaps and tailored advanced physics solutions, achieving 98% accuracy and consistently meeting tight deadlines. 
@@ -24,9 +24,9 @@
 • Partnered with cross-functional teams to analyze data from aerospace tests, uncovering KPIs that improved mission success rates by 20%.
 
 ## Education					
-- MS (CS: AI & ML) | Woolf University (_Aug 2024 - Pursuing_)
-- MS(Physics)      | Jamia Millia Islamia (_Jul 2021 - Jun 2023_)	 			        		
-- BS(Physics)      | University of Delhi (_Jul 2017 - Aug 2020_)
+- MS (CS: AI & ML) | Woolf University (Aug 2024 - Pursuing)
+- MS(Physics)      | Jamia Millia Islamia (Jul 2021 - Jun 2023)	 			        		
+- BS(Physics)      | University of Delhi (Jul 2017 - Aug 2020)
   
 ## Projects
 ### OYO Hotel Booking Analysis | EDA using Python
