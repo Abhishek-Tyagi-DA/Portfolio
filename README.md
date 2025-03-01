@@ -1,10 +1,10 @@
-## Data Science Practitioner
+## Data Science Trainee
 ![1_wy7MfSUZCo5GHTL9tlPNXg](https://github.com/user-attachments/assets/c1a52b95-dd4f-4f0a-bea0-1360cb85f6ee)
 
 
 ### Technical Skills: Python, SQL, Machine Learning, Power BI, EXCEL 
 ## Education					
-- M.S. (CS : Artificial Intelligence and Machine Learning) | Woolf University (_Jun 2025_)
+- M.S. (CS: Artificial Intelligence and Machine Learning) | Woolf University (_Jun 2025_)
 - M.Sc.(Physics) | Jamia Millia Islamia (_Jun 2023_)	 			        		
 - B.Sc.(Physics) | University of Delhi (_Aug 2020_)
 
