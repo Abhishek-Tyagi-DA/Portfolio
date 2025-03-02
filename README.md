@@ -53,14 +53,28 @@
 
 [Data Project](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)
 
-![Airbnb Booking Analysis | Power BI Dashboard](https://github.com/user-attachments/assets/1e9c0079-7e13-4254-860d-a7af704a5944)
+![Image](https://github.com/user-attachments/assets/7e097015-78c4-4763-ae5e-57d77a958cc6)
+
 • Analyzed hotel booking datasets using Power BI, creating an interactive dashboard that increased efficiency by 25% to find insights and diagnose the root cause.
 
 • Transformed and optimized data using DAX and Excel, ensuring completeness and validity, and reducing inconsistencies by 30%.
 
 • Integrated over 100k+ data points into an interactive dashboard, enabling real-time analytics and accelerating decision-making by 40%, offering insights to maximize data utilization and strategy implementation.
 
+### Booking.com-Hotel Booking Analysis | Tableau Dashboard
+
+[Data Project]([https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection](https://public.tableau.com/app/profile/abhishek.tyagi4632/viz/Hotelbookinganalysis_17132030943310/Dashboardonhotelbooking))
+
+![Image](https://github.com/user-attachments/assets/e80efff1-525d-4d73-b7c6-370ead859dfd)
+
+• Analyzed hotel booking datasets in Tableau, developing an interactive dashboard that boosted efficiency by 25%, enabling rapid insights and root cause analysis.
+
+• Optimized data using Tableau’s calculated fields and data blending, enhancing completeness and consistency, and reducing inconsistencies by 30%.
+
+• Integrated 100k+ data points into a dynamic Tableau dashboard, driving real-time analytics and accelerating decision-making by 40%, enabling strategic data utilization.
+
 ### LinkedIn | Product Case Study
+
 [Data Project]([[https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python](https://github.com/Abhishek-Tyagi-DA/Hollywood-Insights-Inc.-Movie-Analysis-Excel-Dashboard)](https://github.com/Abhishek-Tyagi-DA/LinkedIn-Product-Case-Study))
 
 ![Image](https://github.com/user-attachments/assets/2782585a-6f26-4385-be32-c4d66f2d71e9)
