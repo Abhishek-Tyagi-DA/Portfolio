@@ -29,7 +29,7 @@
 - BS(Physics)      | University of Delhi (Jul 2017 - Aug 2020)
   
 ## Projects
-### Airbnb Booking Analysis | EDA using Python
+### Booking.com-Hotel Booking Analysis | EDA using Python
 [Data Project](https://github.com/AbhishekTyagi21/EDA-on-Hotel-Booking-Analysis--using-Python)
 
 ![OYO Hotel Booking Analysis(EDA)](https://github.com/user-attachments/assets/8451ccdc-3fb6-4933-8a45-03697ec147bf)
@@ -49,7 +49,8 @@
 
 • Identified key industry trends, revealing that high-budget films had an 80% higher median gross, and specific genres outperformed others in ROI.
 
-### Airbnb Booking Analysis | PowerBI Dashboard
+### Booking.com-Hotel Booking Analysis | PowerBI Dashboard
+
 [Data Project](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)
 
 ![Airbnb Booking Analysis | Power BI Dashboard](https://github.com/user-attachments/assets/1e9c0079-7e13-4254-860d-a7af704a5944)
