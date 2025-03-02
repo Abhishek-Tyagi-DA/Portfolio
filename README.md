@@ -81,8 +81,8 @@
 
 ## Certifications					
 - Numerical Programming in Python                   | AlmaBetter (Nov 2023)
-- Relational Databases                              | AlmaBetter (Feb 2024)	 			        		
-- Data Visualization Tools                          | AlmaBetter (Apr 2024)
+- Relational Databases                              |       AlmaBetter (Feb 2024)	 			        		
+- Data Visualization Tools                          |      AlmaBetter (Apr 2024)
 - Advanced Certification in Full Stack Data Science | IIT Guwahati (Feb 2024 - Jul 2024)
   
 ### Technical Skill: Python, SQL, Machine Learning, Power BI, EXCEL
