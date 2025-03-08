@@ -84,6 +84,18 @@
 
 • Derived insights from case study projects to propose scalable database solutions, making 10% cost-efficient compared to the benchmark.
 
+### Adverse Event Reporting Analysis | PowerBI Dashboard
+
+[Data Project](https://github.com/Abhishek-Tyagi-DA/Adverse-Event-Reporting-PowerBI_Dashboard)
+
+![Image](![Image](https://github.com/user-attachments/assets/1d47066d-d7c4-42e7-bce9-ce34a34adf7e))
+
+• Developed an interactive Power BI dashboard to analyze 13+ years of FDA adverse event reports, uncovering trends in food, dietary supplement, and cosmetic-related incidents.
+
+• Optimized data processing for 100,000+ records, leveraging Power Query and DAX to clean, model, and extract actionable insights efficiently.
+
+• Performed time-series analysis and predictive modeling, identifying seasonal spikes in adverse events and providing quantifiable risk assessments for public health insights.
+
 ### Netflix Movies and TV Shows Clustering
 [Data Project](https://github.com/AbhishekTyagi21/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING)
 
