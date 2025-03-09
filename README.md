@@ -88,7 +88,7 @@
 
 [Data Project](https://github.com/Abhishek-Tyagi-DA/Adverse-Event-Reporting-PowerBI_Dashboard)
 
-![Image](https://github.com/user-attachments/assets/1d47066d-d7c4-42e7-bce9-ce34a34adf7e)
+![Image](https://github.com/user-attachments/assets/ae4f9174-b2e3-4362-8ae9-f1bb69cd7c2d)
 
 • Developed an interactive Power BI dashboard to analyze 13+ years of FDA adverse event reports, uncovering trends in food, dietary supplement, and cosmetic-related incidents.
 
